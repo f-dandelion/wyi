@@ -1,0 +1,13 @@
+<view class="main">
+
+<view class="mcdesc"><view class="main-desc">
+
+<view class="catinfo">
+        <image src="/image/about1.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">「好设计」就是1+1等于2+,
+作为一个「好设计」文化贯穿的家居品牌，维意定制不止单单满足家居尺寸定制的需求，而是让设计参与到全屋硬装与软装的每一个环节当中。从板式家具，到各类型的软装家居，都实现整装打造，为您的家注入您的个性DNA！除此之外，2015年还签约意大利巨匠设计师LELE，引入欧洲设计思想，并创新推出“1家生活方式”系列国际新品。</view>
+
+<view class="paragraph">与成功者同行,新时代，家居行业正在发生着全方位深刻的变革，行业再次迎来重要战略机遇期，未来的竞争不仅仅是单纯的企业之间的竞争，更是供应链的竞争，品牌的竞争，资本的竞争，维意定制凭借其正确的商业模式和先进的制造技术一路高歌猛进！在新时代的浪潮中，你是否愿意乘坐我们这艘「工业4.0」快船，一起乘风破浪？</view>
+</view></view>
+</view>

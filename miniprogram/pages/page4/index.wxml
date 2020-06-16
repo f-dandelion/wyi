@@ -1,0 +1,13 @@
+<view class="main">
+
+<view class="mcdesc"><view class="main-desc">
+<view class="catinfo">
+        <image src="/image/q2.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">好设计,更懂生活。专业设计师提供一对一个性化定制服务，通过深度交流了解需求，以风格、色彩、产品材质、家居的整体布局为主线，把室内家居环境整体化设计，风格统一。免费出全屋平面图 + 全屋效果图 + 全品类预算清单，让你家的效果清晰直观。</view>
+<view class="catinfo">
+        <image src="/image/q1.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">居住面积少是许多刚需房的痛点，但在这一届年轻人的想象下，十几方的面积，也能发挥几百方的功能。打造一个多功能房，集客房、书房、休闲室、储物间于一体，在家办公、亲友聚会、朋友借宿、小孩玩耍、收纳物品等多种需求满足都不在话下。</view>
+</view></view>
+</view>

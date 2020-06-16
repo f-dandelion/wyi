@@ -1,0 +1,13 @@
+<view class="main">
+
+<view class="mcdesc"><view class="main-desc">
+<view class="catinfo">
+        <image src="/image/a12.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">>简约风橱柜</view>
+<view class="catinfo">
+        <image src="/image/a11.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">>简约风装饰</view>
+</view></view>
+</view>

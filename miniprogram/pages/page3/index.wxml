@@ -1,0 +1,18 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d1.jpg" mode="aspectFill"></image>
+    </view>
+
+
+<view class="mcdesc"><view class="main-desc">
+
+<view class="catinfo">
+        <image src="/image/2.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">现代前卫风格演绎另类生活,比简约更加凸显自我、张扬个性,地中海文明一直在很多人心中蒙着一层神秘的面纱。古老而遥远，宁静而深邃。随处不在的浪漫主义气息和兼容并蓄的文化品位，以其极具亲和力的田园风情，很快被地中海以外的广大区域人群所接受。对于久居都市，习惯了喧嚣的现代都市人而言，地中海风格给人们以返璞归真的感受，同时体现了对于更高生活质量的要求。</view>
+<view class="catinfo">
+        <image src="/image/3.jpg" class="catinfo-thumb"mode="aspectFill"></image>
+    </view>
+<view class="paragraph">对于不少青年人来说，事业的压力、繁琐的应酬让他们需要一个更为简单的环境给自己的身心一个放松的空间。不拘小节、没有束缚，让自由不受承重墙的限制，空间利用率高是不少消费者的选择</view>
+</view></view>
+</view>
